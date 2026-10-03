@@ -1,0 +1,89 @@
+{
+  "reviewed_at": "2026-10-03T22:04:16.696195+00:00",
+  "sources": [
+    {
+      "repository": "brandondube/prysm",
+      "url": "https://github.com/brandondube/prysm",
+      "commit": "5008f47803af6ff69eed474fca049456076e4a7d",
+      "commit_date": "2026-07-26T02:06:10Z",
+      "activity": "geometry,segmented: use signed distance functions to draw segment apertures and composite",
+      "pushed_at": "2026-07-26T02:06:40Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": "licenses/brandondube_prysm.txt",
+      "license_url": "https://raw.githubusercontent.com/brandondube/prysm/5008f47803af6ff69eed474fca049456076e4a7d/LICENSE.md"
+    },
+    {
+      "repository": "scipy/scipy",
+      "url": "https://github.com/scipy/scipy",
+      "commit": "b8c4a2195aafc7759cb65ea73c6e530e3dd3f459",
+      "commit_date": "2026-10-03T08:53:48Z",
+      "activity": "DOC: fix typos in optimize.rst (#26343)",
+      "pushed_at": "2026-10-03T08:53:48Z",
+      "archived": false,
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "license_file": "licenses/scipy_scipy.txt",
+      "license_url": "https://raw.githubusercontent.com/scipy/scipy/b8c4a2195aafc7759cb65ea73c6e530e3dd3f459/LICENSE.txt"
+    },
+    {
+      "repository": "numpy/numpy",
+      "url": "https://github.com/numpy/numpy",
+      "commit": "2f1eca306857b641fb0fef0ab854a2d4137e1581",
+      "commit_date": "2026-10-03T09:25:29Z",
+      "activity": "REV: Revert changes to broadcasting of arrays (#32861)",
+      "pushed_at": "2026-10-03T09:25:29Z",
+      "archived": false,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "license_file": "licenses/numpy_numpy.txt",
+      "license_url": "https://raw.githubusercontent.com/numpy/numpy/2f1eca306857b641fb0fef0ab854a2d4137e1581/LICENSE.txt"
+    },
+    {
+      "repository": "matplotlib/matplotlib",
+      "url": "https://github.com/matplotlib/matplotlib",
+      "commit": "717459bbba42e8990601910b76ca365c0847a9f6",
+      "commit_date": "2026-10-02T23:26:31Z",
+      "activity": "Merge pull request #32426 from matplotlib/dependabot/github_actions/actions-4b2c77c676",
+      "pushed_at": "2026-10-03T02:47:06Z",
+      "archived": false,
+      "license": null,
+      "license_file": "licenses/matplotlib_matplotlib.txt",
+      "license_url": "https://raw.githubusercontent.com/matplotlib/matplotlib/717459bbba42e8990601910b76ca365c0847a9f6/LICENSE/LICENSE"
+    },
+    {
+      "repository": "ahmetalpkilic/reference-clock-camera-timing-learning-lab",
+      "url": "https://github.com/ahmetalpkilic/reference-clock-camera-timing-learning-lab",
+      "commit": "cccab81d3d15a8bb05352138cfdff6e88e9bf8cb",
+      "commit_date": "2026-10-02T20:21:21Z",
+      "activity": "Add reference-clock calibration and optical camera timing lab",
+      "pushed_at": "2026-10-02T20:21:24Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": "licenses/ahmetalpkilic_reference-clock-camera-timing-learning-lab.txt",
+      "license_url": "https://raw.githubusercontent.com/ahmetalpkilic/reference-clock-camera-timing-learning-lab/cccab81d3d15a8bb05352138cfdff6e88e9bf8cb/LICENSE"
+    }
+  ]
+}
